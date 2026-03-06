@@ -1,0 +1,16 @@
+{
+  "total_conversations": 764,
+  "by_source": {
+    "gemini_takeout": 1,
+    "claude": 188,
+    "chatgpt": 575
+  },
+  "by_media": {
+    "voice": 1,
+    "images": 1,
+    "code": 0
+  },
+  "gemini_voice_files": 203,
+  "gemini_image_files": 50,
+  "total_ideas_extracted": 2591
+}

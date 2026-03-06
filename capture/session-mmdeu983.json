@@ -1,0 +1,51 @@
+{
+  "sessionId": "mmdeu983",
+  "timestamp": "2026-03-05T11:56:48.058Z",
+  "ideas": [
+    {
+      "id": 1,
+      "text": "Camera that sees clutter and breaks it into micro-tasks",
+      "fork": "liquescent-creative",
+      "connections": [
+        2,
+        5
+      ],
+      "energy": 5
+    },
+    {
+      "id": 2,
+      "text": "Voice-first interface for hands-free task entry",
+      "fork": "skylar-taskmaster",
+      "connections": [
+        1,
+        3
+      ],
+      "energy": 4
+    },
+    {
+      "id": 3,
+      "text": "Automated script to label cables from photos",
+      "fork": "skylar-taskmaster",
+      "connections": [
+        2
+      ],
+      "energy": 3
+    },
+    {
+      "id": 4,
+      "text": "NAI research - adaptive interfaces for ADHD",
+      "fork": "orchid-research",
+      "connections": [],
+      "energy": 4
+    },
+    {
+      "id": 5,
+      "text": "Constellation map visualiser for idea relationships",
+      "fork": "liquescent-creative",
+      "connections": [
+        1
+      ],
+      "energy": 5
+    }
+  ]
+}
